@@ -1,7 +1,6 @@
 # Project Overview
 
-https://user-images.githubusercontent.com/104820894/171662338-f27c7700-1236-44a3-a4f3-424444d32675.mp4
-
+https://user-images.githubusercontent.com/104820894/171664007-25b260a4-ed5a-40d5-a257-f3de722479dd.mp4
 
 # How to use
 
